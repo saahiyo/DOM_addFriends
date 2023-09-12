@@ -1,2 +1,3 @@
-# DOM_addFriends
-Made with ( HTML CSS JS ) project, used js DOM to build a add friend feature button ✅
+# addFriends_js
+add friends feature button ✅
+made with JavaScript DOM ✔️
