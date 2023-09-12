@@ -1,4 +1,3 @@
-
 let state = document.querySelector("h5")
 let adde = document.querySelector(".addt")
 let staback = document.querySelector(".status")
