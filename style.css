@@ -35,6 +35,9 @@ h1 {
   border-radius:10px;
   font-family:Arial,sans-serif;
 }
+button{
+  cursor: pointer;
+}
 .container h5{
   font-size:23px;
   color: white;
