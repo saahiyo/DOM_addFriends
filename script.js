@@ -1,7 +1,7 @@
 let state = document.querySelector("h5")
 let adde = document.querySelector(".addt")
 let staback = document.querySelector(".status")
-var signal = 0
+var signal = 1
 
 adde.addEventListener("click",function(){
 if(signal==0){
